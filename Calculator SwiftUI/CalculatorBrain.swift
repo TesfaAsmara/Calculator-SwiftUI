@@ -8,6 +8,8 @@
 
 import Foundation
 
+//Added a comment for the purpose of the homework assignment.
+
 func changeSign(operand: Double) -> Double { //changes sign
     return -operand
 }
